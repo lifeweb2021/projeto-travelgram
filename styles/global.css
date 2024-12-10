@@ -42,5 +42,5 @@ a:hover{
 }
 
 .bg-surface-color{
-    background-color: var(--background-color);
+    background-color: var(--surface-color);
 }
